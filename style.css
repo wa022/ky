@@ -294,7 +294,9 @@ p {
                 margin-left: 10px;
 	}
 
-
+.contact-info img:hover {
+		color: #337ab7;
+	}
 
 .email-link {
 	margin-top: 50px;
