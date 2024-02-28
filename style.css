@@ -177,6 +177,15 @@ p {
 		min-width: 16px;
 	}
 
+
+
+
+
+
+
+
+
+
 .transition {
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
@@ -277,6 +286,13 @@ p {
 .contact-info a:hover {
   text-decoration: none;
 }
+
+.contact-info img {
+		width: 30px;
+                margin-left: 10px;
+	}
+
+
 
 .email-link {
 	margin-top: 50px;
