@@ -75,6 +75,20 @@ p {
 }
 
 
+
+
+
+
+a1 {
+   font-family: "Alexandria", serif;
+   font-weight: 100;
+
+}
+
+
+
+
+
 /* ==========================================================================
 =SEC1 (Header)
 ========================================================================== */
@@ -183,7 +197,7 @@ p {
 
 
 .social-media img:hover {
-		background-color: #46cdcf;
+		background-color: #fcd000;
                 border-radius: 50%;
 
 	}
