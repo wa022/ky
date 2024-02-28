@@ -182,9 +182,7 @@ p {
 
 
 
-
-
-#menu-links a:hover, #menu-links .active {
+.social-media img:hover {
 		background-color: #46cdcf;
 	}
 
