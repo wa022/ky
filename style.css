@@ -212,6 +212,8 @@ p {
 .skills img {
 	margin: 10px;
         width: 100px;
+        height: auto;
+
 
 }
 
