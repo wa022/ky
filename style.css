@@ -184,6 +184,8 @@ p {
 
 .social-media img:hover {
 		background-color: #46cdcf;
+                border-radius: 50%;
+
 	}
 
 
