@@ -184,6 +184,12 @@ p {
 
 
 
+#menu-links a:hover, #menu-links .active {
+		background-color: #46cdcf;
+	}
+
+
+
 
 
 .transition {
