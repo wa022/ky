@@ -27,7 +27,7 @@ a {
 }
 
 a:hover, a:focus {
-	color: #46cdcf;
+	color: #fcd000;
 }
 
 img {
@@ -36,7 +36,7 @@ img {
 }
 
 .current {
-	background-color: #46cdcf;
+	background-color: #fcd000;
 }
 
 
@@ -133,7 +133,7 @@ a1 {
 	}
 
 	#header-nav a:hover .bb-animate {
-		background: #46cdcf;
+		background: #fcd000;
 		width: 100%;
 	}
 
@@ -173,7 +173,7 @@ a1 {
 	}
 
 	#fix-menu a:hover, #fix-menu .active {
-		background-color: #46cdcf;
+		background-color: #fcd000;
 	}
 
 .menu-links {
